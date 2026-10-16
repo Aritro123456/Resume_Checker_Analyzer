@@ -85,10 +85,6 @@ The system generates:
 - Add new task types in `utils/tasks.py`
 - Enhance UI in `streamlit_app.py`
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
